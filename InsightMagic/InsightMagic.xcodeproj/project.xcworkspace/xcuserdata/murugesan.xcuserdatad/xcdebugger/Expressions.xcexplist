@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageAnchor.referenceImage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.renderer(_:updateAtTime:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "position2.x">
+            </PersistentString>
+            <PersistentString
+               value = "position1.x">
+            </PersistentString>
+            <PersistentString
+               value = "distance">
+            </PersistentString>
+            <PersistentString
+               value = "position2.z">
+            </PersistentString>
+            <PersistentString
+               value = "position1.z">
+            </PersistentString>
+            <PersistentString
+               value = "position2.y">
+            </PersistentString>
+            <PersistentString
+               value = "position1.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.renderer(_:nodeFor:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imageNodes">
+            </PersistentString>
+            <PersistentString
+               value = "isjumping">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
